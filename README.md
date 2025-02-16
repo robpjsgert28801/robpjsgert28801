@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm robpjsgert28801
 
-<!--
-**robpjsgert28801/robpjsgert28801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏹 🏏 🎯 🏸 A passionate developer who loves frameworks 🏹 🏏 🎯 🏸
 
-Here are some ideas to get you started:
+## About Me
+🎪 🏏 🎱 Addicted to startup culture 🎪 🏏 🎱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥊 🎰 Enthusiastic about cloud computing 🥊 🎰
+
+### Fun Facts
+🎾 🎯 🎰 🎤 Always learning about augmented reality 🎾 🎯 🎰 🎤
+
+---
+🥊 🛹 🏓 🎻 🎪 Thanks for visiting my profile! 🎯 🎨 🏸 🎮 🏄
